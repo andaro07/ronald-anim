@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Anim Ronald Darko</title>
+    <link>https://andaro07.github.io/ronald-anim/</link>
+    <description>Recent content in Data Science Portfolio on Anim Ronald Darko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Feb 2024 04:00:59 -0400</lastBuildDate>
+    <atom:link href="https://andaro07.github.io/ronald-anim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project IV: BMI Calculator</title>
+      <link>https://andaro07.github.io/ronald-anim/post/chapter-4/</link>
+      <pubDate>Thu, 08 Feb 2024 04:00:59 -0400</pubDate>
+      <guid>https://andaro07.github.io/ronald-anim/post/chapter-4/</guid>
+      <description>Overview Converted the height to meters(m). Convert the weight to kilograms(kg). Calculated the BMI Link to Github repository&#xA;Visit Calculation website</description>
+    </item>
+    <item>
+      <title>Project III: Forecasting Golf Playability: A Machine Learning Approach to Predicting Optimal Tee Times</title>
+      <link>https://andaro07.github.io/ronald-anim/post/chapter-3/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://andaro07.github.io/ronald-anim/post/chapter-3/</guid>
+      <description>Overview This is a web application created using the R Shiny package.&#xA;Obtained dataset from Dataprofessor&amp;rsquo;s github repository. Cleaned the data. Obtained the best performing ML model. Hosted the model using the R Shiny package. Link to Github repository&#xA;Visit prediction website</description>
+    </item>
+    <item>
+      <title>Project II: Diabetes Prediction</title>
+      <link>https://andaro07.github.io/ronald-anim/post/chapter-2/</link>
+      <pubDate>Thu, 04 Jan 2024 11:00:59 -0400</pubDate>
+      <guid>https://andaro07.github.io/ronald-anim/post/chapter-2/</guid>
+      <description>Overview Obtained dataset from Kaggle Visualized the dataset Performed label encoding Obtained the best performing ML model Measured model accuracy Link to Github repository&#xA;Visit prediction website</description>
+    </item>
+    <item>
+      <title>Project I: Employee Retention Insights: Machine Learning Model Prediction</title>
+      <link>https://andaro07.github.io/ronald-anim/post/chapter-1/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://andaro07.github.io/ronald-anim/post/chapter-1/</guid>
+      <description>Overview Obtained and cleaned dataset from online database. Performed EDA on dataset. Obtained effective ML model. Performed prediction using ML model. Measured accuracy of model. Link to Github repository&#xA;Visit prediction website</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://andaro07.github.io/ronald-anim/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andaro07.github.io/ronald-anim/about/</guid>
+      <description>&amp;ldquo;If you give seed to a sower, you&amp;rsquo;ve given bread for food.&amp;rdquo; I am a BSc. Statistics graduate from the Kwame Nkrumah University of Science and Technology (KNUST). I hope to further my studies in Data Science. My areas of interests are Machine Learning, Artificial intelligence and Time Series Analysis. I hope to apply all these skills and contribute immensely to the health sector years to come.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://andaro07.github.io/ronald-anim/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andaro07.github.io/ronald-anim/contact/</guid>
+      <description>I would love to hear from you.&#xA;Platform URL LinkedIn https://www.linkedin.com/in/ronald-anim-20b281235 GitHub https://github.com/andaro07 Email animdarkoronald081@gmail.com </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Anim Ronald Darko</title>
+    <link>https://andaro07.github.io/Ronald_Portfolio_2/tags/scene/</link>
+    <description>Recent content in scene on Anim Ronald Darko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andaro07.github.io/Ronald_Portfolio_2/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Employee Retention Insights: Machine Learning Model Prediction</title>
+      <link>https://andaro07.github.io/Ronald_Portfolio_2/post/chapter-1/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://andaro07.github.io/Ronald_Portfolio_2/post/chapter-1/</guid>
+      <description>Obtained and cleaned dataset from company. Performed EDA on dataset. Obtained effective ML model. Performed prediction using ML model. Measured accuracy of model. Employees Link to Github repository</description>
+    </item>
+  </channel>
+</rss>
